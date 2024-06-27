@@ -1,0 +1,1162 @@
+[
+    {
+        "name": "Balance-Brötli",
+        "price": "CHF 1.40"
+    },
+    {
+        "name": "Buttergipfeli",
+        "price": "CHF 1.50"
+    },
+    {
+        "name": "Dinkel Gipfeli",
+        "price": "CHF 1.50"
+    },
+    {
+        "name": "Doppel Mütschli",
+        "price": "CHF 1.40"
+    },
+    {
+        "name": "Doppelte Hot Dogbrötli weich",
+        "price": "CHF 2.70"
+    },
+    {
+        "name": "Fc Aaraubrötli",
+        "price": "CHF 1.40"
+    },
+    {
+        "name": "Früchtebrötli",
+        "price": "CHF 2.00"
+    },
+    {
+        "name": "Hamburger Brötli mit Sesam",
+        "price": "CHF 1.70"
+    },
+    {
+        "name": "Hamburger Brötli ohne Sesam",
+        "price": "CHF 1.60"
+    },
+    {
+        "name": "Kümmel-Brötli",
+        "price": "CHF 1.30"
+    },
+    {
+        "name": "Laugenbretzel",
+        "price": "CHF 1.60"
+    },
+    {
+        "name": "Laugenfisch",
+        "price": "CHF 1.90"
+    },
+    {
+        "name": "Laugengipfeli",
+        "price": "CHF 1.50"
+    },
+    {
+        "name": "Laugenzöpfli",
+        "price": "CHF 1.80"
+    },
+    {
+        "name": "Maisbrötli",
+        "price": "CHF 1.40"
+    },
+    {
+        "name": "Maisgipfeli",
+        "price": "CHF 1.50"
+    },
+    {
+        "name": "Mega Parisettli 100g",
+        "price": "CHF 1.70"
+    },
+    {
+        "name": "Mega Weggli",
+        "price": "CHF 1.70"
+    },
+    {
+        "name": "Mohn-Brötli",
+        "price": "CHF 1.30"
+    },
+    {
+        "name": "Nussbrötli",
+        "price": "CHF 2.00"
+    },
+    {
+        "name": "Plusminus Brötli",
+        "price": "CHF 1.40"
+    },
+    {
+        "name": "Roggenbrötli",
+        "price": "CHF 1.40"
+    },
+    {
+        "name": "Rusticogipfeli",
+        "price": "CHF 1.50"
+    },
+    {
+        "name": "Schruubebrötli dunkel",
+        "price": "CHF 1.60"
+    },
+    {
+        "name": "Schruubebrötli hell",
+        "price": "CHF 1.60"
+    },
+    {
+        "name": "Schruubebrötli Rustico",
+        "price": "CHF 1.60"
+    },
+    {
+        "name": "Semeli",
+        "price": "CHF 1.20"
+    },
+    {
+        "name": "Sesam-Brötli",
+        "price": "CHF 1.30"
+    },
+    {
+        "name": "Speck- Knopf",
+        "price": "CHF 2.10"
+    },
+    {
+        "name": "UrDinkel-Brötli",
+        "price": "CHF 1.40"
+    },
+    {
+        "name": "Weggli",
+        "price": "CHF 1.30"
+    },
+    {
+        "name": "X-Line-Brötli",
+        "price": "CHF 1.40"
+    },
+    {
+        "name": "Zopfknopf",
+        "price": "CHF 1.80"
+    },
+    {
+        "name": "Apfeltaschen",
+        "price": "CHF 2.70"
+    },
+    {
+        "name": "Blätterteig-Nussgipfel",
+        "price": "CHF 2.70"
+    },
+    {
+        "name": "Hefe-Nussgipfel",
+        "price": "CHF 2.70"
+    },
+    {
+        "name": "Mandelgipfel",
+        "price": "CHF 2.70"
+    },
+    {
+        "name": "Nuss-Stollen",
+        "price": "CHF 11.90"
+    },
+    {
+        "name": "Schoggi-Gipfeli",
+        "price": "CHF 2.70"
+    },
+    {
+        "name": "Schoggi-Schnitte",
+        "price": "CHF 2.80"
+    },
+    {
+        "name": "Vanille-Schnecke",
+        "price": "CHF 2.40"
+    },
+    {
+        "name": "Würmli mit Schoggistengeli",
+        "price": "CHF 3.20"
+    },
+    {
+        "name": "Butter-Bögli Dinkel",
+        "price": "CHF 2.70"
+    },
+    {
+        "name": "Butter-S",
+        "price": "CHF 2.20"
+    },
+    {
+        "name": "EM Spitzbueb",
+        "price": "CHF 3.70"
+    },
+    {
+        "name": "Glückskäfer klein",
+        "price": "CHF 4.10"
+    },
+    {
+        "name": "Haselnussmakrönli ungefüllt",
+        "price": "CHF 2.10"
+    },
+    {
+        "name": "Holländer Törtli",
+        "price": "CHF 4.30"
+    },
+    {
+        "name": "Kokosmakronen",
+        "price": "CHF 2.20"
+    },
+    {
+        "name": "Linzertörtli klein Vegan",
+        "price": "CHF 3.50"
+    },
+    {
+        "name": "Mailändersonne mit Spruch",
+        "price": "CHF 7.50"
+    },
+    {
+        "name": "Nuss-Ecke",
+        "price": "CHF 2.70"
+    },
+    {
+        "name": "Nusstörtli",
+        "price": "CHF 6.50"
+    },
+    {
+        "name": "Pfaffenhüetli",
+        "price": "CHF 2.70"
+    },
+    {
+        "name": "Schoggi-Makrönli",
+        "price": "CHF 3.00"
+    },
+    {
+        "name": "Schoggi-S",
+        "price": "CHF 2.30"
+    },
+    {
+        "name": "Schoggiringli Vegan",
+        "price": "CHF 3.50"
+    },
+    {
+        "name": "Smilie klein",
+        "price": "CHF 3.50"
+    },
+    {
+        "name": "Spitzbubenkuh",
+        "price": "CHF 3.70"
+    },
+    {
+        "name": "Spitzbuebe",
+        "price": "CHF 3.10"
+    },
+    {
+        "name": "Vegane Erdnuss- UrDinkel-Cookies- gesalzen",
+        "price": "CHF 2.70"
+    },
+    {
+        "name": "Vogelnestli",
+        "price": "CHF 2.70"
+    },
+    {
+        "name": "Brunch Buttergipfeli",
+        "price": "CHF 0.80"
+    },
+    {
+        "name": "Brunch Dinkel Gipfeli",
+        "price": "CHF 0.80"
+    },
+    {
+        "name": "Brunch Laugengipfeli",
+        "price": "CHF 0.80"
+    },
+    {
+        "name": "Brunch Maisgipfel",
+        "price": "CHF 0.80"
+    },
+    {
+        "name": "Brunch Rusticogipfel",
+        "price": "CHF 0.80"
+    },
+    {
+        "name": "Butterportion",
+        "price": "CHF 0.50"
+    },
+    {
+        "name": "Caotina Portion (Pulver)",
+        "price": "CHF 1.00"
+    },
+    {
+        "name": "Fleischplättli 100g",
+        "price": "CHF 8.50"
+    },
+    {
+        "name": "Freixenet 0.2 l",
+        "price": "CHF 9.90"
+    },
+    {
+        "name": "Honigportion (Hero)",
+        "price": "CHF 0.80"
+    },
+    {
+        "name": "Käse & Fleischplättli 100g",
+        "price": "CHF 8.50"
+    },
+    {
+        "name": "Käseplättli 100g",
+        "price": "CHF 8.50"
+    },
+    {
+        "name": "Konfi / Fruchtaufstrich Glas 200g",
+        "price": "CHF 6.50"
+    },
+    {
+        "name": "Konfiportion (Hero)",
+        "price": "CHF 0.80"
+    },
+    {
+        "name": "Laktose freie Milch 1l",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "Milch 1 Liter",
+        "price": "CHF 2.00"
+    },
+    {
+        "name": "Multivitaminsaft Liter",
+        "price": "CHF 4.00"
+    },
+    {
+        "name": "Nutellaportion",
+        "price": "CHF 0.90"
+    },
+    {
+        "name": "Orangensaft Liter",
+        "price": "CHF 4.00"
+    },
+    {
+        "name": "Ovi Portion (Pulver)",
+        "price": "CHF 1.00"
+    },
+    {
+        "name": "Vegane Hafermilch",
+        "price": "CHF 3.50"
+    },
+    {
+        "name": "1m Laugenparisette",
+        "price": "CHF 14.00"
+    },
+    {
+        "name": "1m Parisette",
+        "price": "CHF 14.00"
+    },
+    {
+        "name": "1m Schruubebrot dunkel",
+        "price": "CHF 14.00"
+    },
+    {
+        "name": "1m Schruubebrot hell",
+        "price": "CHF 14.00"
+    },
+    {
+        "name": "1m Schruubebrot rustic",
+        "price": "CHF 14.00"
+    },
+    {
+        "name": "1m Tessiner",
+        "price": "CHF 14.00"
+    },
+    {
+        "name": "1m Zopf",
+        "price": "CHF 14.00"
+    },
+    {
+        "name": "50cm Laugenparisette",
+        "price": "CHF 7.00"
+    },
+    {
+        "name": "50cm Parisette",
+        "price": "CHF 7.00"
+    },
+    {
+        "name": "50cm Schruubebrot dunkel",
+        "price": "CHF 7.00"
+    },
+    {
+        "name": "50cm Schruubebrot hell",
+        "price": "CHF 7.00"
+    },
+    {
+        "name": "50cm Schruubebrot rustic",
+        "price": "CHF 7.00"
+    },
+    {
+        "name": "50cm Tessiner",
+        "price": "CHF 7.00"
+    },
+    {
+        "name": "50cm Zopf",
+        "price": "CHF 7.00"
+    },
+    {
+        "name": "Apéro Gemüse – Chüechli",
+        "price": "CHF 2.20"
+    },
+    {
+        "name": "Apéro Käse – Chüechli",
+        "price": "CHF 2.20"
+    },
+    {
+        "name": "Apéro Pizza- Chüechli",
+        "price": "CHF 2.20"
+    },
+    {
+        "name": "Apéro Schinkengipfel",
+        "price": "CHF 2.20"
+    },
+    {
+        "name": "Apéro Spinat-Chüechli",
+        "price": "CHF 2.20"
+    },
+    {
+        "name": "Apéro Wurst-Weggen",
+        "price": "CHF 2.20"
+    },
+    {
+        "name": "Apéro Zwiebel Käse – Chüechli",
+        "price": "CHF 2.20"
+    },
+    {
+        "name": "Apfel Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Apfelwähe Rund",
+        "price": "CHF 3.70"
+    },
+    {
+        "name": "Aprikosen Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Aprikosenwähe Rund",
+        "price": "CHF 3.70"
+    },
+    {
+        "name": "Balancebrötli Käse 40%",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Birchermüesli",
+        "price": "CHF 4.80"
+    },
+    {
+        "name": "Broccoli Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Brotsandwichs Fleischkäse",
+        "price": "CHF 6.10"
+    },
+    {
+        "name": "Brotsandwichs Käse",
+        "price": "CHF 6.10"
+    },
+    {
+        "name": "Brotsandwichs Salami",
+        "price": "CHF 6.10"
+    },
+    {
+        "name": "Brotsandwichs Schinken",
+        "price": "CHF 6.10"
+    },
+    {
+        "name": "Brotsandwichs Truten",
+        "price": "CHF 6.10"
+    },
+    {
+        "name": "Canapé Eier",
+        "price": "CHF 4.40"
+    },
+    {
+        "name": "Canapé Eier 1/2",
+        "price": "CHF 3.10"
+    },
+    {
+        "name": "Canapé Eier 1/4",
+        "price": "CHF 2.20"
+    },
+    {
+        "name": "250g St.Galler  Bure",
+        "price": "CHF 2.20"
+    },
+    {
+        "name": "250g St.Galler dunkel",
+        "price": "CHF 2.20"
+    },
+    {
+        "name": "250g St.Galler Ruch",
+        "price": "CHF 2.20"
+    },
+    {
+        "name": "2er St.Galler Bure Kilo",
+        "price": "CHF 5.40"
+    },
+    {
+        "name": "2er St.Galler Ruch dunkel Kilo",
+        "price": "CHF 5.40"
+    },
+    {
+        "name": "2er St.Galler Ruch Kilo",
+        "price": "CHF 5.40"
+    },
+    {
+        "name": "500g Luzerner dunkel",
+        "price": "CHF 3.40"
+    },
+    {
+        "name": "500g Luzerner ruch",
+        "price": "CHF 3.40"
+    },
+    {
+        "name": "500g St.Galler Bure",
+        "price": "CHF 3.40"
+    },
+    {
+        "name": "500g St.Galler Ruch",
+        "price": "CHF 3.40"
+    },
+    {
+        "name": "500g St.Galler Ruch dunkel",
+        "price": "CHF 3.40"
+    },
+    {
+        "name": "Halbweiss 250g lang",
+        "price": "CHF 2.20"
+    },
+    {
+        "name": "Halbweiss 500g lang",
+        "price": "CHF 3.40"
+    },
+    {
+        "name": "Halbweiss Kilo  lang",
+        "price": "CHF 4.90"
+    },
+    {
+        "name": "Ruch 250g lang",
+        "price": "CHF 2.20"
+    },
+    {
+        "name": "Ruch 500g lang",
+        "price": "CHF 3.40"
+    },
+    {
+        "name": "Ruch Kilo  lang",
+        "price": "CHF 4.90"
+    },
+    {
+        "name": "1m Parisette",
+        "price": "CHF 14.00"
+    },
+    {
+        "name": "Balance Brot",
+        "price": "CHF 4.10"
+    },
+    {
+        "name": "Doppelte Hotdog-Brötli",
+        "price": "CHF 2.70"
+    },
+    {
+        "name": "Fc Aaraubrot",
+        "price": "CHF 4.10"
+    },
+    {
+        "name": "Huusbrot",
+        "price": "CHF 4.10"
+    },
+    {
+        "name": "Maisbrot",
+        "price": "CHF 4.10"
+    },
+    {
+        "name": "Para Pan Brot",
+        "price": "CHF 5.00"
+    },
+    {
+        "name": "Parisette",
+        "price": "CHF 3.40"
+    },
+    {
+        "name": "Plusminus Brot",
+        "price": "CHF 5.00"
+    },
+    {
+        "name": "PurKorn Brot  (ohne Hefe und Triebmittel)",
+        "price": "CHF 3.50"
+    },
+    {
+        "name": "Roggen – Brot",
+        "price": "CHF 4.10"
+    },
+    {
+        "name": "Rugeli Toast-Brot",
+        "price": "CHF 4.20"
+    },
+    {
+        "name": "Saisonbrot Mediteranes Grillbrot",
+        "price": "CHF 3.80"
+    },
+    {
+        "name": "Schruubebrot dunkel",
+        "price": "CHF 4.10"
+    },
+    {
+        "name": "Schruubebrot hell",
+        "price": "CHF 4.10"
+    },
+    {
+        "name": "Schruubebrot rustico",
+        "price": "CHF 4.10"
+    },
+    {
+        "name": "Suhrentaler Brot",
+        "price": "CHF 4.50"
+    },
+    {
+        "name": "Tessiner",
+        "price": "CHF 3.60"
+    },
+    {
+        "name": "Toast Caprice",
+        "price": "CHF 5.60"
+    },
+    {
+        "name": "Toast geschnitten",
+        "price": "CHF 7.60"
+    },
+    {
+        "name": "UrDinkel-Brot",
+        "price": "CHF 4.10"
+    },
+    {
+        "name": "UrDinkel-Sauerteigbrot",
+        "price": "CHF 4.10"
+    },
+    {
+        "name": "Vollkorn-Toast",
+        "price": "CHF 7.60"
+    },
+    {
+        "name": "X-Line-Brot",
+        "price": "CHF 4.10"
+    },
+    {
+        "name": "1m Zopf",
+        "price": "CHF 14.00"
+    },
+    {
+        "name": "Speckzopf  Kilo",
+        "price": "CHF 22.00"
+    },
+    {
+        "name": "Speckzopf 410g",
+        "price": "CHF 9.00"
+    },
+    {
+        "name": "UrDinkel-Zopf",
+        "price": "CHF 6.30"
+    },
+    {
+        "name": "Zopf  klein 300g",
+        "price": "CHF 4.80"
+    },
+    {
+        "name": "Zopf  mittel 500g",
+        "price": "CHF 7.50"
+    },
+    {
+        "name": "Zopf gross 700g",
+        "price": "CHF 10.50"
+    },
+    {
+        "name": "Zopf Kilo",
+        "price": "CHF 15.00"
+    },
+    {
+        "name": "Zöpfli klein 110g",
+        "price": "CHF 2.40"
+    },
+    {
+        "name": "Amarettischachtel gross assortiert",
+        "price": "CHF 20.80"
+    },
+    {
+        "name": "Amarettischachtel klein assortiert",
+        "price": "CHF 14.80"
+    },
+    {
+        "name": "Bachforellen 3 Stück",
+        "price": "CHF 8.50"
+    },
+    {
+        "name": "Bachforellen 6 Stück",
+        "price": "CHF 16.50"
+    },
+    {
+        "name": "Baileysamaretti in Schachtel gross",
+        "price": "CHF 20.80"
+    },
+    {
+        "name": "Baileysamaretti in Schachtel klein",
+        "price": "CHF 14.80"
+    },
+    {
+        "name": "Grand Marnier Amarettischachtel gross",
+        "price": "CHF 20.80"
+    },
+    {
+        "name": "Grand Marnier Amarettischachtel klein",
+        "price": "CHF 14.80"
+    },
+    {
+        "name": "Kirschamaretti in Schachtel gross",
+        "price": "CHF 20.80"
+    },
+    {
+        "name": "Kirschamaretti in Schachtel klein",
+        "price": "CHF 14.80"
+    },
+    {
+        "name": "Schöftler Bsetzistei assortiert gross",
+        "price": "CHF 24.80"
+    },
+    {
+        "name": "Schöftler Bsetzistei assortiert klein",
+        "price": "CHF 16.80"
+    },
+    {
+        "name": "Schöftler Bsetzistei Caramel gross",
+        "price": "CHF 24.80"
+    },
+    {
+        "name": "Schöftler Bsetzistei Caramel klein",
+        "price": "CHF 16.80"
+    },
+    {
+        "name": "Schöftler Bsetzistei Himbeer gross",
+        "price": "CHF 24.80"
+    },
+    {
+        "name": "Schöftler Bsetzistei Himbeer klein",
+        "price": "CHF 16.80"
+    },
+    {
+        "name": "Schöftler Bsetzistei Mocca gross",
+        "price": "CHF 24.80"
+    },
+    {
+        "name": "Schöftler Bsetzistei Mocca klein",
+        "price": "CHF 16.80"
+    },
+    {
+        "name": "Schöftler Bsetzistei Pistazien gross",
+        "price": "CHF 24.80"
+    },
+    {
+        "name": "Schöftler Bsetzistei Pistazien klein",
+        "price": "CHF 16.80"
+    },
+    {
+        "name": "Schöftler Grüessli 2er",
+        "price": "CHF 6.00"
+    },
+    {
+        "name": "Schöftler Grüessli 4er",
+        "price": "CHF 12.00"
+    },
+    {
+        "name": "Schöftler Grüessli 6er",
+        "price": "CHF 17.00"
+    },
+    {
+        "name": "Schöftler Grüessli 8er",
+        "price": "CHF 22.00"
+    },
+    {
+        "name": "Schöftler Grüessli dunkel 1er",
+        "price": "CHF 3.00"
+    },
+    {
+        "name": "Schöftler Grüessli hell 1er",
+        "price": "CHF 3.00"
+    },
+    {
+        "name": "Schoggistängeli dunkel",
+        "price": "CHF 2.00"
+    },
+    {
+        "name": "Schoggistängeli dunkel mit Spruch",
+        "price": "CHF 8.30"
+    },
+    {
+        "name": "Schoggistängeli Milch",
+        "price": "CHF 2.00"
+    },
+    {
+        "name": "Schoggistängeli Milch mit Spruch",
+        "price": "CHF 8.30"
+    },
+    {
+        "name": "Schokoladen Beautyset",
+        "price": "CHF 14.90"
+    },
+    {
+        "name": "Schokoladen Werkzeugset",
+        "price": "CHF 13.90"
+    },
+    {
+        "name": "Schümli Crand Cru mit Ruby und Gold",
+        "price": "CHF 13.20"
+    },
+    {
+        "name": "Cantuccini",
+        "price": "CHF 10.80"
+    },
+    {
+        "name": "Mandel Ziegeli",
+        "price": "CHF 8.30"
+    },
+    {
+        "name": "Mandelbögli Konfekt",
+        "price": "CHF 10.50"
+    },
+    {
+        "name": "Preussen Konfekt",
+        "price": "CHF 9.80"
+    },
+    {
+        "name": "Schoggi-S Mini",
+        "price": "CHF 6.80"
+    },
+    {
+        "name": "Wiener Konfekt 100g",
+        "price": "CHF 7.50"
+    },
+    {
+        "name": "Wiener Konfekt 200g",
+        "price": "CHF 15.00"
+    },
+    {
+        "name": "Wiener Konfekt 300g",
+        "price": "CHF 22.50"
+    },
+    {
+        "name": "Wiener Konfekt 400g",
+        "price": "CHF 30.00"
+    },
+    {
+        "name": "Wiener Konfekt 500g",
+        "price": "CHF 37.50"
+    },
+    {
+        "name": "Apfel Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Apfelwähe Rund",
+        "price": "CHF 3.70"
+    },
+    {
+        "name": "Aprikosen Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Aprikosenwähe Rund",
+        "price": "CHF 3.70"
+    },
+    {
+        "name": "Broccoli Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Fondue Wähenstück",
+        "price": "CHF 5.10"
+    },
+    {
+        "name": "Gemüse Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Hackfleisch Wähenstück",
+        "price": "CHF 5.10"
+    },
+    {
+        "name": "Himbeer – Trübeli Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Kartoffel- Zwiebel Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Käse Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Käse-Zwiebel Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Kirschen Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Kirschenwähe Rund",
+        "price": "CHF 3.70"
+    },
+    {
+        "name": "Lauch-Tomaten Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Monats Wähenstück Zucchetti Tomaten Käse",
+        "price": "CHF 5.10"
+    },
+    {
+        "name": "Nidel Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Rhabarber Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Rhabarberwähe Rund",
+        "price": "CHF 3.70"
+    },
+    {
+        "name": "Spinat Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Trübeli Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Zwetschgen Wähenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Zwetschgenwähe Rund",
+        "price": "CHF 3.70"
+    },
+    {
+        "name": "Baileys Schwedentortenstücke",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Becherdessert",
+        "price": "CHF 4.60"
+    },
+    {
+        "name": "Bienenstich",
+        "price": "CHF 4.00"
+    },
+    {
+        "name": "Cheesecake",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Cornéts",
+        "price": "CHF 3.80"
+    },
+    {
+        "name": "Cremeschnitte",
+        "price": "CHF 3.80"
+    },
+    {
+        "name": "Diplomat",
+        "price": "CHF 3.80"
+    },
+    {
+        "name": "Erdbeer-Schnitten",
+        "price": "CHF 4.10"
+    },
+    {
+        "name": "Erdbeertortenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Erdbeertörtli",
+        "price": "CHF 4.60"
+    },
+    {
+        "name": "Fototorte klein für 8 bis 12 Personen",
+        "price": "CHF 50.00"
+    },
+    {
+        "name": "Frucht-Törtli",
+        "price": "CHF 4.60"
+    },
+    {
+        "name": "Früchtetortenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Himbeer-Schnitte",
+        "price": "CHF 4.10"
+    },
+    {
+        "name": "Himbeermaccaron",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Himbeertortenstück",
+        "price": "CHF 4.70"
+    },
+    {
+        "name": "Himbeertörtli",
+        "price": "CHF 4.60"
+    },
+    {
+        "name": "Japonais",
+        "price": "CHF 3.80"
+    },
+    {
+        "name": "Kirsch-Törtli",
+        "price": "CHF 4.60"
+    },
+    {
+        "name": "Limoncello Kugel",
+        "price": "CHF 3.80"
+    },
+    {
+        "name": "Mini Becher",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "Mini Cornéts",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "Mini Cremeschnitte",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "Mini Erdbeertörtli",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "Mini Frucht-Törtli",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "Mini Himbeertörtli",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "Mini Japonais",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "Mini Kirsch-Törtli",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "Mini Mocca Bohnen",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "Mini Mohrenkopf",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "Mini Ofenchüechli Mocca",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "Mini Ofenchüechli Schokolade",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "Mini Ofenchüechli Vanille",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "Mini Quarkschnitte",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "Mini Rumkugeln",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "Mini Schwarzwälderschnitten",
+        "price": "CHF 2.50"
+    },
+    {
+        "name": "EM Spitzbueb",
+        "price": "CHF 3.70"
+    },
+    {
+        "name": "Geschenkegutschein",
+        "price": "CHF 10.00"
+    },
+    {
+        "name": "Jalousie",
+        "price": "CHF 2.80"
+    },
+    {
+        "name": "Solero Kokos Tortenstück",
+        "price": "CHF 4.50"
+    },
+    {
+        "name": "Cheesecake Torte",
+        "price": "CHF 47.00"
+    },
+    {
+        "name": "Erdbeer Torte",
+        "price": "CHF 18.00"
+    },
+    {
+        "name": "Fototorte gross für 15 bis 20 Personen",
+        "price": "CHF 80.00"
+    },
+    {
+        "name": "Fototorte klein für 8 bis 12 Personen",
+        "price": "CHF 50.00"
+    },
+    {
+        "name": "Fototorte nach Personenzahl",
+        "price": "CHF 20.00"
+    },
+    {
+        "name": "Frucht Torte",
+        "price": "CHF 18.00"
+    },
+    {
+        "name": "Himbeer Torte",
+        "price": "CHF 18.00"
+    },
+    {
+        "name": "Kirschtorte",
+        "price": "CHF 21.00"
+    },
+    {
+        "name": "Quark Torte",
+        "price": "CHF 18.00"
+    },
+    {
+        "name": "Rahmkirsch Torte",
+        "price": "CHF 26.00"
+    },
+    {
+        "name": "Royal Torte",
+        "price": "CHF 18.00"
+    },
+    {
+        "name": "Rüeblitorte",
+        "price": "CHF 18.00"
+    },
+    {
+        "name": "Schwarzwäldertorte",
+        "price": "CHF 18.00"
+    },
+    {
+        "name": "Schwedentorte",
+        "price": "CHF 18.00"
+    },
+    {
+        "name": "Vacherin Torte",
+        "price": "CHF 23.00"
+    }
+]
